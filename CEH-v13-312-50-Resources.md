@@ -20,7 +20,7 @@ To pass the CEH v13 exam, candidates should master the standard 5-phase ethical 
 
 For a comprehensive breakdown of the exam format, pacing strategies, and key focus topics, check out this detailed preparation guide:
 
-* [Clearing CEH v13 (312-50 v13): Key Exam Topics, Preparation Strategy, and Exam Day Tips](https://vancedevllmitnotes.hashnode.dev/clearing-ceh-v13-312-50-v13-key-exam-topics-preparation-strategy-and-exam-day-tips)
+* [Clearing CEH v13 (312-50 v13): Key Exam Topics, Preparation Strategy, and Exam Day Tips](https://telegra.ph/How-I-Passed-CEH-v13-312-50v13-Exam-on-First-Try--exam4pass-08-16)
 
 ---
 
