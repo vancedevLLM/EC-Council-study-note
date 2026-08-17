@@ -65,4 +65,16 @@ Work through the material, learn the concepts, but make sure your hands are dirt
 
 ---
 
+## 📂 Repository Index
+
+### 📘 Certification Guides & Question Breakdown
+* [`CEH-v13-312-50-Resources.md`](./CEH-v13-312-50-Resources.md) - Official study blueprint, practice scenario questions, and exam tips.
+* [`CEH-v13-312-50-Resources-2.md`](./CEH-v13-312-50-Resources-2.md) - Supplementary lab notes and domain breakdown.
+
+### 📝 Technical & Methodology Notes
+* [`notes/CEH-v13-Methodology.md`](./notes/CEH-v13-Methodology.md) - 5 Phases of Ethical Hacking, OSINT, and OWASP attack vectors.
+
+### 🛠️ Python Security Audit Scripts
+* [`scripts/port_scanner.py`](./scripts/port_scanner.py) - Basic Python port scanner and banner grabber for security audits.
+
 *Found this useful? Drop a star ⭐️ or follow along as I keep documenting my cybersecurity learning notes!*
