@@ -29,3 +29,12 @@ For a comprehensive breakdown of the exam format, pacing strategies, and key foc
 * **Tool Switches are Critical**: Ensure you memorize command-line options for common security tools like Nmap, tcpdump, and John the Ripper.
 * **Understand the Sequence**: Always answer scenario questions based on the official pentesting phase order (Reconnaissance -> Scanning -> Enumeration -> Hacking -> Covering Tracks).
 * **Pacing**: With 125 questions over 240 minutes, you have nearly 2 minutes per question. Read carefully for keywords like "FIRST step" or "LEAST likely".
+
+---
+
+🔗 Official EC-Council & Cybersecurity Framework Resources
+
+* [EC-Council Official CEH Portal](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) - Official curriculum outline, exam blueprints, and courseware details.
+* [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) - Comprehensive database for CVE tracking and vulnerability scoring (CVSS).
+* [MITRE ATT&CK Framework](https://attack.mitre.org/) - Industry-standard knowledge base of adversary tactics and techniques.
+* [OWASP Foundation](https://owasp.org/) - Security standards and testing guides for web applications.
