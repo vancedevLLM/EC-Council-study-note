@@ -189,3 +189,13 @@ What does `$EXTERNAL_NET any` specify in this rule?
 1. **Read questions carefully:** Watch out for negative qualifiers like *NOT*, *LEAST likely*, or *EXCEPT*.
 2. **Time Management:** You have 4 hours for 125 multiple-choice questions. Pace yourself to leave 20–30 minutes at the end for reviewing flagged items.
 3. **Elimination Strategy:** Always eliminate 2 clearly incorrect options first to increase your odds on tricky scenario questions.
+
+
+---
+
+🔗 Official EC-Council & Cybersecurity Framework Resources
+
+* [EC-Council Official CEH Portal](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) - Official curriculum outline, exam blueprints, and courseware details.
+* [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) - Comprehensive database for CVE tracking and vulnerability scoring (CVSS).
+* [MITRE ATT&CK Framework](https://attack.mitre.org/) - Industry-standard knowledge base of adversary tactics and techniques.
+* [OWASP Foundation](https://owasp.org/) - Security standards and testing guides for web applications.
