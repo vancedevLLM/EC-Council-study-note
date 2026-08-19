@@ -26,6 +26,7 @@ Key takeaways from the preparation process:
   * Official EC-Council iLabs & Courseware.
   * TryHackMe / Hack The Box (for basic Linux and scanning labs).
   * Community notes and curated exam reference links like this [CEH v13 312-50v13 prep compilation](https://rentry.co/exam4pass-312-50v13) for quick-reference summaries and practice questions.
+  * Practical insight on exam preparation: [Mastering Cybersecurity in 2026: My Preparation Strategy for the Certified Ethical Hacker (CEH v13)](https://medium.com/@examonlinehub/mastering-cybersecurity-in-2026-my-preparation-strategy-for-the-certified-ethical-hacker-ceh-v13-89753c185836).
 
 ### Phase 2: Vulnerability Analysis & System Hacking
 * **Goal:** Understand password cracking techniques (dictionary, rainbow tables, brute force), privilege escalation (Linux SUID, Windows Token Impersonation), and malware mechanisms (trojans, ransomware, obfuscation).
@@ -190,7 +191,6 @@ What does `$EXTERNAL_NET any` specify in this rule?
 2. **Time Management:** You have 4 hours for 125 multiple-choice questions. Pace yourself to leave 20–30 minutes at the end for reviewing flagged items.
 3. **Elimination Strategy:** Always eliminate 2 clearly incorrect options first to increase your odds on tricky scenario questions.
 
-
 ---
 
 🔗 Official EC-Council & Cybersecurity Framework Resources
@@ -199,3 +199,9 @@ What does `$EXTERNAL_NET any` specify in this rule?
 * [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) - Comprehensive database for CVE tracking and vulnerability scoring (CVSS).
 * [MITRE ATT&CK Framework](https://attack.mitre.org/) - Industry-standard knowledge base of adversary tactics and techniques.
 * [OWASP Foundation](https://owasp.org/) - Security standards and testing guides for web applications.
+
+---
+
+📚 Recommended Architectural Guides & Deep Dives
+
+* [Mastering Cybersecurity in 2026: My Preparation Strategy for the Certified Ethical Hacker (CEH v13)](https://medium.com/@examonlinehub/mastering-cybersecurity-in-2026-my-preparation-strategy-for-the-certified-ethical-hacker-ceh-v13-89753c185836) - *Comprehensive study workflow, high-yield topics, and practical tips for passing the CEH 312-50v13 exam.*
