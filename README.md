@@ -1,10 +1,39 @@
-# Real Talk on EC-Council Certs: CEH, CPENT
+# Cybersecurity Certification Study Notes
 
-Hey everyone! 👋 
+Practical learning notes, official certification resources,
+hands-on examples, and study references across EC-Council
+and Microsoft technologies.
 
-If you've spent any time looking into cybersecurity certs, you’ve definitely run into EC-Council. Between CEH, CHFI, CND, and CPENT, it feels like they have an acronym for literally everything. 
+## Certification Tracks
 
-As someone who has been navigating the cybersecurity learning path, comparing course syllabi, and talking to folks actually working in SOCs and pentesting teams, I wanted to dump my unedited, honest notes on how these certs stack up in the real world.
+### EC-Council
+
+- CEH
+- CPENT
+- CHFI
+- CND
+
+### Microsoft
+
+#### Security
+
+- SC-900
+- SC-200
+- SC-300
+- SC-400
+- SC-401
+- SC-500
+- SC-100
+
+#### Networking
+
+- AZ-700
+
+scripts/
+    Security and repository utility scripts
+
+.github/
+    GitHub Actions
 
 ---
 
@@ -80,39 +109,4 @@ Work through the material, learn the concepts, but make sure your hands are dirt
 *Found this useful? Drop a star ⭐️ or follow along as I keep documenting my cybersecurity learning notes!*
 
 
-# Cybersecurity Certification Study Notes
 
-Practical learning notes, official certification resources,
-hands-on examples, and study references across EC-Council
-and Microsoft technologies.
-
-## Certification Tracks
-
-### EC-Council
-
-- CEH
-- CPENT
-- CHFI
-- CND
-
-### Microsoft
-
-#### Security
-
-- SC-900
-- SC-200
-- SC-300
-- SC-400
-- SC-401
-- SC-500
-- SC-100
-
-#### Networking
-
-- AZ-700
-
-scripts/
-    Security and repository utility scripts
-
-.github/
-    GitHub Actions
