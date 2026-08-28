@@ -78,3 +78,12 @@ Work through the material, learn the concepts, but make sure your hands are dirt
 * [`scripts/port_scanner.py`](./scripts/port_scanner.py) - Basic Python port scanner and banner grabber for security audits.
 
 *Found this useful? Drop a star ⭐️ or follow along as I keep documenting my cybersecurity learning notes!*
+
+
+
+
+scripts/
+    Security and repository utility scripts
+
+.github/
+    GitHub Actions
