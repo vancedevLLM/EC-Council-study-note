@@ -1,0 +1,124 @@
+[
+  {
+    "exam_code": "SC-900",
+    "title": "Microsoft Security, Compliance, and Identity Fundamentals",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-900",
+    "external_guide": "https://rentry.co/microsoft-sc-900-exam-guide-2026",
+    "focus": [
+      "Security concepts",
+      "Microsoft Entra",
+      "Microsoft security solutions",
+      "Microsoft compliance solutions"
+    ]
+  },
+  {
+    "exam_code": "SC-200",
+    "title": "Microsoft Security Operations Analyst",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200",
+    "external_guide": "https://telegra.ph/SC-200-Security-Operations-Guide-2026-08-28",
+    "focus": [
+      "Security operations",
+      "Microsoft Sentinel",
+      "Microsoft Defender XDR",
+      "KQL",
+      "Incident response",
+      "Threat hunting"
+    ]
+  },
+  {
+    "exam_code": "SC-300",
+    "title": "Microsoft Identity and Access Administrator",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300",
+    "external_guide": "https://telegra.ph/SC-300-Identity-Access-Guide-2026-08-28",
+    "focus": [
+      "Microsoft Entra",
+      "Authentication",
+      "Conditional Access",
+      "Workload identities",
+      "Identity governance"
+    ]
+  },
+  {
+    "exam_code": "SC-400",
+    "title": "Microsoft Information Protection Administrator",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-400/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-400",
+    "external_guide": "https://rentry.co/microsoft-sc-400-exam-guide-2026",
+    "focus": [
+      "Microsoft Purview",
+      "Information protection",
+      "Data Loss Prevention",
+      "Retention",
+      "Insider Risk"
+    ]
+  },
+  {
+    "exam_code": "SC-401",
+    "title": "Administering Information Security in Microsoft 365",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-401/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-401",
+    "external_guide": "https://rentry.co/microsoft-information-security-administrator-sc-401-exam-guide-2026",
+    "focus": [
+      "Information protection",
+      "DLP and retention",
+      "Risk and alerts",
+      "Microsoft Purview",
+      "AI data protection"
+    ]
+  },
+  {
+    "exam_code": "SC-500",
+    "title": "Implementing End-to-End Security Controls for Cloud and AI Workloads",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-500/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500",
+    "external_guide": "https://rentry.co/microsoft-cloud-ai-security-engineer-sc-500-exam-guide-2026",
+    "focus": [
+      "Cloud security controls",
+      "Hybrid security",
+      "Identity",
+      "Network security",
+      "Application security",
+      "AI workload security"
+    ]
+  },
+  {
+    "exam_code": "SC-100",
+    "title": "Microsoft Cybersecurity Architect",
+    "area": "Security",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100",
+    "external_guide": "https://telegra.ph/SC-100-Cybersecurity-Architect-Guide-2026-08-28",
+    "focus": [
+      "Cybersecurity architecture",
+      "Zero Trust",
+      "Security operations",
+      "Identity",
+      "Infrastructure",
+      "Application and data security"
+    ]
+  },
+  {
+    "exam_code": "AZ-700",
+    "title": "Designing and Implementing Microsoft Azure Networking Solutions",
+    "area": "Networking",
+    "official_exam": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/",
+    "official_study_guide": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-700",
+    "external_guide": null,
+    "focus": [
+      "Core network infrastructure",
+      "Hybrid connectivity",
+      "Application delivery",
+      "Private access",
+      "Network security"
+    ]
+  }
+]
