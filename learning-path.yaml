@@ -1,0 +1,24 @@
+repository:
+  name: cybersecurity-certification-study
+  tracks:
+    - EC-Council
+    - Microsoft
+
+microsoft:
+  security:
+    foundation:
+      - SC-900
+    operations:
+      - SC-200
+    identity:
+      - SC-300
+    information_protection:
+      - SC-400
+    information_security:
+      - SC-401
+    cloud_ai_security:
+      - SC-500
+    architecture:
+      - SC-100
+  networking:
+    - AZ-700
