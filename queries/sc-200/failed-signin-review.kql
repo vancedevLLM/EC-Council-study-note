@@ -1,0 +1,9 @@
+// Defensive learning example for Microsoft Sentinel / Log Analytics.
+// Adapt the table and field names to the data source available in your lab.
+
+SigninLogs
+| where TimeGenerated > ago(24h)
+| where ResultType != "0"
+| summarize FailedAttempts=count(), FirstSeen=min(TimeGenerated), LastSeen=max(TimeGenerated)
+    by UserPrincipalName, IPAddress, ResultType
+| order by FailedAttempts desc
